@@ -1,0 +1,5 @@
+#parse("/velocity/layout.vsl")
+#@mainLayout()
+<h1>$mensagem</h1>
+
+#end
